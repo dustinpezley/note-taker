@@ -18,18 +18,12 @@ Run `npm i` to install all necessary modules.
 ## Usage
 This site is hosted on Heroku at [https://pacific-cove-62879.herokuapp.com/](https://pacific-cove-62879.herokuapp.com/). Once there, start typing a note. Click save to add it to the list on the left. Previous notes can be deleted as necessary.
 
+A video showing functionality can be found [here](https://drive.google.com/file/d/1xxTqGKjgMbpfXkjCOa3i6CmE-ccN97fU/view).
 
-
-
-
-
-
+![GIF](./public/assets/images/Note Taker.gif)
 
 ## License
 Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
-
-
 
 ## Contributing
 While I am not needing contributions at this time, I always welcome pointers on how to improve my code.
