@@ -20,7 +20,7 @@ This site is hosted on Heroku at [https://pacific-cove-62879.herokuapp.com/](htt
 
 A video showing functionality can be found [here](https://drive.google.com/file/d/1xxTqGKjgMbpfXkjCOa3i6CmE-ccN97fU/view).
 
-![GIF](./public/assets/images/Note Taker.gif)
+![GIF](https://github.com/dustinpezley/note-taker/blob/ada090695d8b23b7879e85a1a97e2db9ad804613/public/assets/images/Note%20Taker.gif)
 
 ## License
 Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
